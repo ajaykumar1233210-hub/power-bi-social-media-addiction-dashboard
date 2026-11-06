@@ -8,11 +8,11 @@ Power BI: DAX measures, KPI cards, gauges, slicers, button navigation
 
 ## Dashboard Pages
 1. Executive Overview
-2. Student Profile
-3. Mental Health & Lifestyle
-4. Academic Impact
-5. Relationships & Conflicts
-6. Story View
+2. Mental Health & Lifestyle
+3. Academic Impact
+4. Relationships & Conflicts
+5. Interactive Story View
+6. Student Profile
 
 ## Key DAX Measures
 - High Risk %
@@ -21,3 +21,23 @@ Power BI: DAX measures, KPI cards, gauges, slicers, button navigation
 
 ## Project Files
 - Social_Media_Addiction_Dashboard.pbix: the Power BI file
+
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](1.%20Executive%20Overview.png)
+
+### Mental Health & Lifestyle
+![Mental Health and Lifestyle](2.%20Mental%20Health%20%26%20Lifestyle.png)
+
+### Academic Impact
+![Academic Impact](3.%20Academic%20Impact.png)
+
+### Relationships & Conflicts
+![Relationships and Conflicts](4.%20Relationships%20and%20Conflicts.png)
+
+### Interactive Story View
+![Interactive Story View](5.%20Interactive%20Story%20View.png)
+
+### Student Profile
+![Student Profile](6.%20Student%20Profile.png)
