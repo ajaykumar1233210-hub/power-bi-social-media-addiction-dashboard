@@ -21,4 +21,3 @@ Power BI: DAX measures, KPI cards, gauges, slicers, button navigation
 
 ## Project Files
 - Social_Media_Addiction_Dashboard.pbix: the Power BI file
-- Dashboard screenshots / PDF: preview of all pages
